@@ -1,6 +1,11 @@
 # Discord Honeypot
 A bot to complement current server administration in Discord by seeking and reporting DM spammers and advertisers.
-Please keep in mind that it is very unfinished and many things are done fast or hacky and may not work efficiently or correctly.
+Please keep in mind that it is very unfinished and is now under a rewrite and may not work efficiently or correctly.
+
+Upcoming breaking changes:
+* Transition to mongo
+* Better communication between honeypots and main bot
+* Code clean-up
 
 ## MySQL
 Create table sql for case data:
